@@ -1,4 +1,5 @@
-[Untitled (1)](https://user-images.githubusercontent.com/101953487/232580948-5632ecc3-032c-474e-9831-bb49d4094671.jpeg)
+<div align="center">
+  <img src="https://www.dropbox.com/s/3agpwrfhch0p9pp/Untitled%20%281%29.jpeg?dl=0" />
 # lanschool-blocker!
 
 A simple lanschool blocker made with powershell
