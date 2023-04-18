@@ -1,6 +1,7 @@
-<div align="center">
-  <img src="https://www.dropbox.com/s/3agpwrfhch0p9pp/Untitled%20%281%29.jpeg?dl=0" />
+<img src="https://shorturl.at/lmO28" width="0%" height="0%" />
+<img src="images/head.png" width="100%" height="20%" />
 # lanschool-blocker!
+
 
 A simple lanschool blocker made with powershell
 
